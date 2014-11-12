@@ -2,6 +2,8 @@
 
 Under development
 
+![Alt text](/MXRoundedCornersTableViewCellDemo/screenshot.png?raw=true "Optional Title")
+
 #### Usage
 
 Simply subclass MXRoundedCornersTableViewCell or use MXRoundedCornersTableViewCell directly.
