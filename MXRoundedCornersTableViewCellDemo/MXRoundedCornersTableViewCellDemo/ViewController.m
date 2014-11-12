@@ -47,7 +47,7 @@
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
 
     MXRoundedCornersTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"cell"];
-    cell.textLabel.text = @"Happy coding!";
+    cell.textLabel.text = @"Demo";
 
     cell.borderWidth = 1.0f;
     cell.edgeOffset = 10.0f;
