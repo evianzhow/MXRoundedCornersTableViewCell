@@ -1,7 +1,5 @@
 # MXRoundedCornersTableViewCell
 
-Under development
-
 ![Alt text](/MXRoundedCornersTableViewCellDemo/screenshot.png?raw=true "Optional Title")
 
 #### Usage
