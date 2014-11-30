@@ -2,11 +2,11 @@
 
 ![Alt text](/MXRoundedCornersTableViewCellDemo/screenshot.png?raw=true "Optional Title")
 
-#### Usage
+## Usage
 
 Simply subclass MXRoundedCornersTableViewCell or use MXRoundedCornersTableViewCell directly.
 
-#### Example usage
+## Example usage
 
 ``` objc
 MXRoundedCornersTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"cell"];
